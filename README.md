@@ -1,4 +1,6 @@
-# BACKEND TEST
+# CMS BACKEND
+
+Frontend Repository: https://github.com/mahalyka/insignia-cms-frontend.git
 
 requirement:
 - strapi dependency
